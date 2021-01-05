@@ -1,0 +1,9 @@
+2020-11-09 04:13:27,541 :CRITICAL : pytestex.test_logging :Critical issue
+2020-11-09 04:16:36,698 :INFO : pytestex.test_logging :Information statement
+2020-11-09 04:16:36,698 :WARNING : pytestex.test_logging :Something is in warning mode
+2020-11-09 04:16:36,698 :ERROR : pytestex.test_logging :A Major error has happend
+2020-11-09 04:16:36,698 :CRITICAL : pytestex.test_logging :Critical issue
+2020-11-09 05:03:33,689 :INFO : test_editProfile :Rahul
+2020-11-09 05:03:33,705 :INFO : test_editProfile :rahulshettyacademy.com
+2020-11-09 06:30:48,758 :INFO : test_editProfile :Rahul
+2020-11-09 06:30:48,758 :INFO : test_editProfile :rahulshettyacademy.com
